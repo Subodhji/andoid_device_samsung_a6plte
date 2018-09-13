@@ -1,0 +1,3 @@
+add_lunch_combo lineage_samsung_aplte-user
+add_lunch_combo lineage_samsung_aplte-userdebug
+add_lunch_combo lineage_samsung_aplte-eng

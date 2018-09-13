@@ -1,0 +1,2 @@
+# andoid_device_samsung_a6plte
+Under Development
